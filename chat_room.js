@@ -28,7 +28,7 @@ function addRoom()
 
   localStorage.setItem("room_name", room_name);
 
-  window.location = "kwitter_page.html";
+  window.location = "chat_page.html";
 }
 
 function getData() 
